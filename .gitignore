@@ -1,0 +1,39 @@
+# Angular specific
+weather/dist/
+weather/tmp/
+weather/out-tsc/
+
+# Node
+weather/node_modules/
+
+# IDEs and editors
+weather/.idea/
+weather/.vscode/
+weather/*.sublime-project
+weather/*.sublime-workspace
+
+# Compiled output
+weather/*.js
+weather/*.js.map
+weather/*.tsbuildinfo
+
+# Logs
+weather/npm-debug.log*
+weather/yarn-debug.log*
+weather/yarn-error.log*
+
+# OS generated files
+weather/.DS_Store
+weather/Thumbs.db
+
+# Environment files
+weather/.env
+weather/.env.*
+
+# Misc
+weather/coverage/
+
+# Angular build artifacts
+weather/.angular/cache/
+weather/.angular/config.json
+weather-app/.gitignore
